@@ -1,0 +1,7 @@
+djangorestframework-simplejwt
+Django<4.0,>=2.2
+djangorestframework
+requests
+openai
+django-background-tasks
+django_jsonform
